@@ -1,0 +1,125 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+bg                      BITMAP  DISCARDABLE     "image\\starting\\bg.bmp"
+titles                  BITMAP  DISCARDABLE     "image\\starting\\title.bmp"
+buts                    BITMAP  DISCARDABLE     "image\\starting\\but.bmp"
+levs                    BITMAP  DISCARDABLE     "image\\starting\\lev.bmp"
+levbuts                 BITMAP  DISCARDABLE     "image\\starting\\levbut.bmp"
+paper                   BITMAP  DISCARDABLE     "image\\explain\\paper.bmp"
+stamp                   BITMAP  DISCARDABLE     "image\\explain\\stamp.bmp"
+town                    BITMAP  DISCARDABLE     "image\\town\\town.bmp"
+mapfield                BITMAP  DISCARDABLE     "image\\explain\\map.bmp"
+chai                    BITMAP  DISCARDABLE     "image\\town\\cha.bmp"
+paperf                  BITMAP  DISCARDABLE     "image\\explain\\paperf.bmp"
+road                    BITMAP  DISCARDABLE     "image\\game1\\road.bmp"
+g1re                    BITMAP  DISCARDABLE     "image\\game1\\resource1.bmp"
+g1we                    BITMAP  DISCARDABLE     "image\\game1\\weapon.bmp"
+g2re                    BITMAP  DISCARDABLE     "image\\game2\\resource.bmp"
+g2map                   BITMAP  DISCARDABLE     "image\\game2\\map.bmp"
+g3map                   BITMAP  DISCARDABLE     "image\\game3\\map.bmp"
+g3re                    BITMAP  DISCARDABLE     "image\\game3\\resource.bmp"
+g3cha                   BITMAP  DISCARDABLE     "image\\game3\\cha.bmp"
+nstamp                  BITMAP  DISCARDABLE     "image\\explain\\stampn.bmp"
+papers                  BITMAP  DISCARDABLE     "image\\explain\\papers.bmp"
+paperu                  BITMAP  DISCARDABLE     "image\\explain\\paperu.bmp"
+paperg                  BITMAP  DISCARDABLE     "image\\explain\\paperg.bmp"
+paperm                  BITMAP  DISCARDABLE     "image\\explain\\paperm.bmp"
+paperp                  BITMAP  DISCARDABLE     "image\\explain\\paperp.bmp"
+gex                     BITMAP  DISCARDABLE     "image\\explain\\gex(600,270).bmp"
+upg                     BITMAP  DISCARDABLE     "image\\explain\\upgrades.bmp"
+win                     BITMAP  DISCARDABLE     "image\\explain\\win.bmp"
+lose                    BITMAP  DISCARDABLE     "image\\explain\\lose.bmp"
+pet                     BITMAP  DISCARDABLE     "image\\explain\\pet.bmp"
+stampe                  BITMAP  DISCARDABLE     "image\\explain\\stampe.bmp"
+papere                  BITMAP  DISCARDABLE     "image\\explain\\papere.bmp"
+let                     BITMAP  DISCARDABLE     "image\\explain\\let(311,236).bmp"
+g4bg                     BITMAP  DISCARDABLE     "image\\game4\\bg.bmp"
+g4cha                     BITMAP  DISCARDABLE     "image\\game4\\cha.bmp"
+g4re                     BITMAP  DISCARDABLE     "image\\game4\\resource.bmp"
+g4sun                     BITMAP  DISCARDABLE     "image\\game4\\sun.bmp"
+texp1                     BITMAP  DISCARDABLE     "image\\town\\exp.bmp"
+//texp2                     BITMAP  DISCARDABLE     "image\\town\\exp2.bmp"
+g1exp1                     BITMAP  DISCARDABLE     "image\\game1\\exp.bmp"
+g1exp2                     BITMAP  DISCARDABLE     "image\\game1\\exp2.bmp"
+g2exp1                     BITMAP  DISCARDABLE     "image\\game2\\exp.bmp"
+g2exp2                     BITMAP  DISCARDABLE     "image\\game2\\exp2.bmp"
+g3exp1                     BITMAP  DISCARDABLE     "image\\game3\\exp.bmp"
+g3exp2                     BITMAP  DISCARDABLE     "image\\game3\\exp2.bmp"
+g4exp                     BITMAP  DISCARDABLE     "image\\game4\\exp.bmp"
+exx                     BITMAP  DISCARDABLE     "image\\explain\\expout.bmp"
+tore                    BITMAP  DISCARDABLE     "image\\town\\resource.bmp"
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON2               ICON    DISCARDABLE     "image\\invation.ico"
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
